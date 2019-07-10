@@ -26,18 +26,63 @@ De igual manera, hay sugerencias para abordar la complejidad de la educación su
 
 Tomando en cuenta tanto el contexto latinoamericano como las tendencias internacionales, durante el research el equipo se acercó más al entendimiento de la educación superior, especialmente las barreras para frenar la adopción de las tecnologías clave en la dinámica de las universidades. Reflexionar sobre los imposibles, nos hizo optar por alternativas viables.
 
+También, hay sugerencias para abordar la complejidad de la educación superior y es la articulación curricular a partir de temas y problemas transversales y de promoción de valores. Este proceso implica la integración de múltiples ambientes de aprendizaje, desde los presenciales hasta los virtuales, que desplieguen todas las posibilidades de un individuo o de un grupo social para el aprendizaje de alto nivel. Se pudo distinguir que se apuesta por una educación de tipo integral (formativa y para el trabajo) y la incorporación de los elementos en línea para incrementar las posibilidades.
+
+### Informe Horizon
+
+Una vez comprendidas las necesidades de la región sobre educación superior, se buscaron las claves para la adopción de la tecnología en la educación superior. Para ello, se tomó como referente el Informe Horizon porque analiza a corto, mediano y largo plazo las principales tendencias aplicables. De igual manera, se destacaron las barreras para frenar la adopción de las tecnologías clave en la dinámica de las universidades. Reflexionar sobre los imposibles, nos hizo plantear alternativas viables.
+
+<a href="https://ibb.co/HDXtw8Y"><img src="https://i.ibb.co/mCS9ZWt/estasi.png" alt="estasi" border="0"></a>
+<a href="https://ibb.co/VwdNxVX"><img src="https://i.ibb.co/WVQ30nS/other.png" alt="other" border="0"></a>
+<a href="https://ibb.co/SXXZskZ"><img src="https://i.ibb.co/0jjzD0z/aver.png" alt="aver" border="0"></a>
+
+### México
+
+Ahora bien, después de revisar las generalidades se revisó la situación de México. De acuerdo con Conacyt (Consejo Nacional de Ciencia y Tecnología), en su último informe del 2015 contabilizó las instituciones que ofertan posgrados en el país y presentó las características:
+
+<a href="https://ibb.co/cgnHVk0"><img src="https://i.ibb.co/8KZptNq/mexx.png" alt="mexx" border="0"></a><br />
+
+Hay una constante entre México y Latinoamérica acerca de la predominancia de escuelas privadas. Este es un asunto relevante porque, si bien, algunas cuentan con grandes ventajas económicas frente a las de tipo público, en ocasiones los planes y programas no tienen las certificaciones ni la validez adecuadas para el nivel. Sobre la modalidad de los programas, se observan dos datos importantes:
+- La cantidad de oferta de posgrados para el fin de semana (57% del total) muestra la alta demanda de un posgrado con flexibilidad de horario y lo relacionamos con las características del estudiantado de este nivel. La mayoría se encuentran trabajando y  pretenden superarse para un mejor desempeño de sus actividades, o bien, tienen la esperanza de una mejor remuneración.
+- El número reducido de posgrados en modalidad mixta (virtual o distancia). Si se considera el estilo de vida del estudiantado y su búsqueda por opciones más accesibles, las opciones mixtas pueden ser una oportunidad para cubrir con las metas.
+
+ Encontramos que el interés de los mexicanos por estudiar en modalidades mixtas ha despuntado en los últimos años:
+
+<a href="https://ibb.co/KXkMZQC"><img src="https://i.ibb.co/XbghBdm/mex-2.png" alt="mex-2" border="0"></a>
+
+Entre las razones para este despunte se debe a que cubre con una de las principales motivaciones para seguir estudiando: la flexibilidad de planes de estudio y de horario.
+
+<a href="https://ibb.co/ZcwpkCd"><img src="https://i.ibb.co/SV149pN/mex-3.png" alt="mex-3" border="0"></a>
+
+En este sentido, es importante reconocer los factores para decidir estudiar en una modalidad en línea: 
+<a href="https://ibb.co/yF0462T"><img src="https://i.ibb.co/SwNftST/mex-4.png" alt="mex-4" border="0"></a>
+
+Sin embargo, pese a que la modalidad en línea ofrece la deseada flexibilidad a los profesionistas interesados en seguir estudiando,  se encontraron una serie de percepciones negativas  que hacen desconfiar sobre la efectividad de aprendizaje y la aceptación de los títulos expedidos desde esta modalidad en el ámbito laboral.
+
+<a href="https://ibb.co/2PxqBdY"><img src="https://i.ibb.co/hHbsvV1/per.png" alt="per" border="0"></a>
+
+Así, se detectó que existen contrastes entre motivaciones y creencias sobre la educación en línea. Las personas interesadas valoran la interacción entre profesores y compañeros, la claridad de los contenidos y quieren certificados para tener mejores puestos. Aspectos que consideran no logran cubrir los posgrados en línea.
+
+
+
 ## Benchmark
 Se hizo una revisión a la oferta educativa de escuelas a nivel nacional e internacional considerando: nombre de la escuela, requisitos de ingreso, costo, oferta educativa, duración y modelo educativo. 
 Entre las escuelas revisadas está UNITEC, ANÁHUAC, UVM, Moodle, EdModo, FernUniversität y Open University British.
 
 ## Entrevistas
 Para la delimitación del problema se realizaron entrevistas con el fin de conocer los pensamientos, dolencias y necesidades acerca de la educación en línea. Entre los entrevistados sobresalen personas como: una docente en línea, un estudiante de ingeniería en línea, una diseñadora instruccional, dos personas que trabajan y consideran continuar sus estudios -maestría y posgrado- y tres estudiantes que están interesados en conocer cuál es la oferta educativa.
+La selección de los participantes estuvo en función del mapeo de stakeholders.  
 
-![GitHub Educación en línea](ideación/entrevista.png)
+<a href="https://ibb.co/T21Gg9V"><img src="https://i.ibb.co/mT0KcfL/stakeholders.jpg" alt="stakeholders" border="0"></a>
 
 Se obtuvo información socioeconómica, áreas de interés para estudiar un posgrado, factores para la toma de decisiones al inscribirse a algún programa educativo. Se exploró el estilo de aprendizaje utilizando la asociación con la ayuda de imágenes. Finalmente, se propuso una situación ficticia para conocer las expectativas acerca de un programa educativo ideal.
 
+![GitHub Educación en línea](ideación/entrevista.png)
+
 Todos los entrevistados coincidieron en ciertos puntos: consideran que el contenido, dinámica de aprendizaje, costo y nombre de escuela son factores determinantes a la hora de decidir estudiar en algún lugar. Asimismo, si quieren estudiar en línea, consideran tomar cursos breves pero no estudios como maestría o posgrado, pues piensan que no existe una misma calidad a estudiar de manera presencial.
+
+* [Guion de entrevista](https://docs.google.com/document/d/1UB6gJhGj3RPawn9x8lAerEj8CilYIhQ8qGgwoMkXVvM/edit)
+
 
 ## Perfiles
 Las entrevistas ayudaron a crear arquetipos. Debido al interés por cursar el posgrado y las habilidades personales aptas para el estudio en la modalidad en línea, se construyeron dos user persona correspondientes a los dos anteriores: uno primario y otro secundario.
@@ -53,13 +98,32 @@ User persona principal: Sergio Ríos
 User persona secundario:Viviana Amicone
 ![GitHub Educación en línea](ideación/persona2.jpg)
 
+## Insight
+
+Al analizar la información recabada, se enunciaron los siguientes puntos:
+
+* La educación en línea no inspira confianza entre las personas interesadas en estudiar porque hay temor de no comprender los temas y no tener a alguien cercano para aclarar dudas.
+
+“La educación en línea no provee la cercanía que necesito para aprender”
+
+* Estudiar un posgrado incrementa el nivel de prestigio y mejora la posibilidad de tener un aumento en el sueldo, cambiar de puesto u obtener un nuevo trabajo. Sin embargo, las personas interesadas en estudiar consideran que los empleadores no valoran de la misma forma una carrera virtual a una convencional-presencial.
+
+“La educación en línea nunca será igual a la educación presencial, en cuanto a calidad y prestigio. Puede ser un riesgo la inversión”
+
 
 ## Problema
 De inicio, se realizó un Tree Problems que  ayudó a formular ciertas incógnitas sobre los problemas más relevantes en el ámbito educativo en línea, visto desde los diferentes stakeholders, conociendo las principales causas y también las consecuencias que intervienen en dichos problemas.
 
+![árbol](https://i.ibb.co/FX3MMKJ/Captura-de-pantalla-2019-06-23-a-la-s-16-27-24.png)
+
 Después, con el ejercicio de 5 WHY’S, se pudo tener un acercamiendo a la causa raíz del problema. Algunas de las problemáticas más comunes salieron a través de las preguntas como:
 - ¿Por qué las personas creen que la educación en línea no es tan buena como la educación presencial?
 - ¿Por qué algunos cursos en línea no cuentan con las herramientas adecuadas para fomentar la modalidad en línea?
+
+![5WHYS](https://i.ibb.co/wsB910M/Captura-de-pantalla-2019-07-08-a-la-s-20-43-44.png)
+![5WHYS](https://i.ibb.co/VJ1J885/Captura-de-pantalla-2019-07-08-a-la-s-20-44-12.png)
+![5WHYS](https://i.ibb.co/d0k6v6w/Captura-de-pantalla-2019-07-08-a-la-s-20-44-33.png)
+
 
 La problemática se eligió tomando en cuenta la opinión de todas las personas involucradas en el equipo. Como resultado, se realizó un clustering para determinar cuál era la solución que además de tener más valor fuera viable. En este sentido y para reafirmar la idea, se desarrolló el Iceberg Model que permitió ver el problema de fondo por medio de las preguntas:
 - ¿Qué es lo que está pasando?
